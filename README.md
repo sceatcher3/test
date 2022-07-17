@@ -1,4 +1,4 @@
-# [Demo](https://lchz&#104;3473.github.io/sim-phi/index "Phigros模拟器")
+# [Demo](https://github.com/sceatcher3/test/index "Phigros模拟器")
 
 ## 简介
 
